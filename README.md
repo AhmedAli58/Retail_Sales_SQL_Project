@@ -214,7 +214,6 @@ This project demonstrates SQL skills for data analysis, including database setup
 4. **Modify queries** to explore additional insights or answer specific business questions.
 
 
--- Author: Ahmed Ali | Portfolio project showcasing SQL skills for data analyst roles.
--- Questions, feedback, or collaboration: www.linkedin.com/in/ahmedali79x
+-- Author: Ahmed Ali | Portfolio project showcasing SQL skills for data analyst roles. For Questions, feedback, or collaboration, www.linkedin.com/in/ahmedali79x
 
 
