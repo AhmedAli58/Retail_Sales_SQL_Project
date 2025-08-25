@@ -1,5 +1,3 @@
-# Retail Sales Analysis SQL Project
-
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis   
@@ -205,14 +203,6 @@ GROUP BY shift
 This project demonstrates SQL skills for data analysis, including database setup, data cleaning, exploratory analysis, and business-focused queries. The findings provide insights into sales patterns, customer behavior, and product performance.
 
 
-## How to Use
 
-1. **Clone the repository** from GitHub.  
-2. **Set up the database** by running `database_setup.sql` to create and populate the tables.  
-3. **Execute analysis queries** using `analysis_queries.sql`.  
-4. **Modify queries** to explore additional insights or answer specific business questions.
-
-
--- Author: Ahmed Ali | Portfolio project showcasing SQL skills for data analyst roles. For Questions, feedback, or collaboration, www.linkedin.com/in/ahmedali79x
 
 
